@@ -3,7 +3,7 @@ This notebook will allow you to get the current sentiment of a topic from tweets
 
 # Requirements
 
-> In order to use this script, you must have a Twitter developer account which can be done on the Twitter <a src="https://developer.twitter.com/en">Developer Platform</a>
+> In order to use this script, you must have a Twitter developer account which can be done on the Twitter <a href="https://developer.twitter.com/en">Developer Platform</a>
 
 You will need to store your credentials as local environment variables so the script can access them. The variables you will need are:
 

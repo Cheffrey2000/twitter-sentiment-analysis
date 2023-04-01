@@ -1,4 +1,4 @@
-# Twitter Santiment analysis
+# Twitter Sentiment analysis
 This notebook will allow you to get the current sentiment of a topic from tweets on Twitter. 
 
 # Requirements
